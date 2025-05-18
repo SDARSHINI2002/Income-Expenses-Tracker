@@ -1,4 +1,4 @@
-ncome and Expenses Tracker
+Income and Expenses Tracker
 
 A simple and responsive web app to track income and expenses, built with HTML, CSS, and JavaScript. It helps users manage personal finances by adding, viewing, and calculating transactions in real-time.
 
